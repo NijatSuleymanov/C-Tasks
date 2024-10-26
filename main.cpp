@@ -11,7 +11,7 @@ using namespace std;
 int main (){
 
       system("cls");
-        //   Bubble sort
+        //   Bubble sort    /bax tutaq ki deyishiklik etmisen, run edirsen birinci her shey okdusa push etmek istirsen indi push edirik
         int array[9] = {4, 3, 8, 5, 9, 2, 1, 6, 7 };
 
         for(int i = 0; i < 9; i++)
